@@ -2620,7 +2620,7 @@
       ]
     },
     {
-      "isDefault": false,
+      "isDefault": true,
       "abbreviation": "QWM",
       "name": "QWERTY for Mac",
       "description": "QWERTY is the mother of all layouts. This is the Mac version.",
@@ -3842,7 +3842,7 @@
       ]
     },
     {
-      "isDefault": true,
+      "isDefault": false,
       "abbreviation": "QWR",
       "name": "QWERTY for PC",
       "description": "QWERTY is the mother of all layouts. This is the PC version.",
