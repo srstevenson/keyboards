@@ -60,7 +60,7 @@
   "mouseScrollDeceleratedSpeed": 7,
   "mouseScrollBaseSpeed": 10,
   "mouseScrollAcceleratedSpeed": 12,
-  "secondaryRoleStrategy": "Simple",
+  "secondaryRoleStrategy": "Advanced",
   "secondaryRoleAdvancedStrategyDoubletapTimeout": 200,
   "secondaryRoleAdvancedStrategyTimeout": 350,
   "secondaryRoleAdvancedStrategySafetyMargin": 50,
@@ -258,22 +258,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 17
+                  "scancode": 17,
+                  "secondaryRoleAction": "rightShift"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 8
+                  "scancode": 8,
+                  "secondaryRoleAction": "rightSuper"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 12
+                  "scancode": 12,
+                  "secondaryRoleAction": "rightAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 18
+                  "scancode": 18,
+                  "secondaryRoleAction": "rightCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
@@ -434,22 +438,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 4
+                  "scancode": 4,
+                  "secondaryRoleAction": "leftCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 21
+                  "scancode": 21,
+                  "secondaryRoleAction": "leftAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 22
+                  "scancode": 22,
+                  "secondaryRoleAction": "leftSuper"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 23
+                  "scancode": 23,
+                  "secondaryRoleAction": "leftShift"
                 },
                 {
                   "keyActionType": "none"
@@ -1481,22 +1489,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 17
+                  "scancode": 17,
+                  "secondaryRoleAction": "rightShift"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 8
+                  "scancode": 8,
+                  "secondaryRoleAction": "rightCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 12
+                  "scancode": 12,
+                  "secondaryRoleAction": "rightAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 18
+                  "scancode": 18,
+                  "secondaryRoleAction": "rightSuper"
                 },
                 {
                   "keyActionType": "keystroke",
@@ -1657,22 +1669,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 4
+                  "scancode": 4,
+                  "secondaryRoleAction": "leftSuper"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 21
+                  "scancode": 21,
+                  "secondaryRoleAction": "leftAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 22
+                  "scancode": 22,
+                  "secondaryRoleAction": "leftCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 23
+                  "scancode": 23,
+                  "secondaryRoleAction": "leftShift"
                 },
                 {
                   "keyActionType": "none"
@@ -2709,22 +2725,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 13
+                  "scancode": 13,
+                  "secondaryRoleAction": "rightShift"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 14
+                  "scancode": 14,
+                  "secondaryRoleAction": "rightSuper"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 15
+                  "scancode": 15,
+                  "secondaryRoleAction": "rightAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 51
+                  "scancode": 51,
+                  "secondaryRoleAction": "rightCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
@@ -2885,22 +2905,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 4
+                  "scancode": 4,
+                  "secondaryRoleAction": "leftCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 22
+                  "scancode": 22,
+                  "secondaryRoleAction": "leftAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 7
+                  "scancode": 7,
+                  "secondaryRoleAction": "leftSuper"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 9
+                  "scancode": 9,
+                  "secondaryRoleAction": "leftShift"
                 },
                 {
                   "keyActionType": "none"
@@ -3931,22 +3955,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 13
+                  "scancode": 13,
+                  "secondaryRoleAction": "rightShift"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 14
+                  "scancode": 14,
+                  "secondaryRoleAction": "rightCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 15
+                  "scancode": 15,
+                  "secondaryRoleAction": "rightAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 51
+                  "scancode": 51,
+                  "secondaryRoleAction": "rightSuper"
                 },
                 {
                   "keyActionType": "keystroke",
@@ -4107,22 +4135,26 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 4
+                  "scancode": 4,
+                  "secondaryRoleAction": "leftSuper"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 22
+                  "scancode": 22,
+                  "secondaryRoleAction": "leftAlt"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 7
+                  "scancode": 7,
+                  "secondaryRoleAction": "leftCtrl"
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 9
+                  "scancode": 9,
+                  "secondaryRoleAction": "leftShift"
                 },
                 {
                   "keyActionType": "none"
